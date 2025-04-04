@@ -1,0 +1,14 @@
+Liquid 3 is a biotechnological urban solution that replaces traditional trees with tanks filled with microalgae. These tanks absorb CO₂ and release oxygen, just like trees, but in a more space-efficient manner. Liquid 3 is especially useful in urban areas with limited space for planting.
+
+Key features:
+- CO₂ Absorption
+- Oxygen Production
+- Urban-Friendly Design
+- Requires electricity and maintenance
+
+Use Cases:
+- Cities with air pollution
+- Smart city projects
+- Educational awareness
+
+Developed in Serbia, it is considered a green innovation tackling urban climate challenges.
